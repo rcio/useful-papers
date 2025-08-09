@@ -3,5 +3,4 @@
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
-/Computer[[:space:]]System/linux-network-performance-parameters-master/LICENSE filter=lfs diff=lfs merge=lfs -text
 * !text !filter !merge !diff
